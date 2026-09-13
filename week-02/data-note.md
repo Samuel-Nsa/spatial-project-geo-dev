@@ -1,25 +1,25 @@
 # Week 02 Data Note: Rural Market Accessibility
 
-**1. Marketplaces (Amenity Points)**
-* **Source:** OpenStreetMap via Geofabrik (https://download.geofabrik.de/africa/nigeria.html)
+**1. Marketplaces (Points of Interest)**
+* **Source:** GRID3 Nigeria (Points of Interest — Markets), with 2 of 13 records attributed to eHealth Africa polio-mapping (`source` field: `GRID` vs `eHA_Polio`)
 * **Geometry Type:** Point
-* **Feature Count:** [INSERT NUMBER] features
-* **Key Columns:** `name`, `amenity`
-* **Gaps/Missing Values:** Many smaller, informal rural markets are likely not mapped by the OSM community, which could make some areas appear more isolated than they actually are.
+* **Feature Count:** 13 features
+* **Key Columns:** `market_nam`, `mrkt_type`, `mrkt_frqcy`, `wardname`, `mrkt_mon`–`mrkt_sun` (weekly schedule)
+* **Gaps/Missing Values:** The 2 `eHA_Polio`-sourced records (Ajura, Fidiwo) have no market-frequency or weekly-schedule data, unlike the 11 `GRID`-sourced records — the two source feeds don't carry the same attributes
 
 **2. Road Network**
-* **Source:** OpenStreetMap via Geofabrik (https://download.geofabrik.de/africa/nigeria.html)
+* **Source:** Blended roads dataset — majority from CIESIN/Meta AI-derived roads (dated 2020), minority from Overture Maps/OSM (dated 2025), per the `source_acr` field
 * **Geometry Type:** LineString / MultiLineString
-* **Feature Count:** [INSERT NUMBER] features
-* **Key Columns:** `highway`, `name`, `surface`
-* **Gaps/Missing Values:** The `surface` attribute is frequently null or missing for rural feeder roads, making it difficult to determine road quality.
+* **Feature Count:** 22,488 features
+* **Key Columns:** `class` (road type, e.g. residential/track/tertiary), `road_surfa`, `speed_esti`, `date`, `source_acr`
+* **Gaps/Missing Values:** `road_surfa` is null for all CIESIN/Meta-sourced roads (the large majority) and only populated for the smaller Overture/OSM-sourced subset — surface quality data is structurally missing for most of the network, not just sparsely recorde
 
 **3. Settlement Extents**
-* **Source:** GRID3 Nigeria Settlement Extents (https://data.grid3.org/datasets/GRID3::grid3-nigeria-settlement-extents-version-01-02/about)
-* **Geometry Type:** Polygon / MultiPolygon
-* **Feature Count:** [INSERT NUMBER] features
-* **Key Columns:** `type`, `shape_area`
-* **Gaps/Missing Values:** Extremely small or newly established nomadic farming hamlets may not be captured in the satellite-derived polygons.
+* **Source:** GRID3 Nigeria Settlements (combined dataset — `source` field shows both `GRID` and `OSGOF`, i.e. Office of the Surveyor General of the Federation, rather than a single-source download)
+* **Geometry Type:** Point (confirmed via Layer Properties → Information — despite the "Extent" name, this dataset stores settlement locations as points, not polygon boundaries)
+* **Feature Count:** 1,066 features
+* **Key Columns:** `wardname`, `lganame`, `set_name`, `set_altnam`, `is_primary`, `source`
+* **Gaps/Missing Values:** At least one record ("Ogunji") is attributed to Shagamu LGA rather than Obafemi Owode — the layer isn't fully clipped to the target LGA and needs an explicit spatial filter before use in the accessibility analysis
 
 **4. Local Government Area Boundary**
 * **Source:** Humanitarian Data Exchange - HDX (https://data.humdata.org/dataset/cod-ab-nga)
