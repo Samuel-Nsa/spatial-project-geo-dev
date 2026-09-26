@@ -2,7 +2,7 @@
 
 Spatial evaluation of geographic access to formal market nodes across rural settlements in Obafemi Owode Local Government Area, Ogun State, Nigeria.
 
-[Rural Market Accessibility Map](./week-04/Obafemi_Owode_5km_Analysis.png)
+![Rural Market Accessibility Map](./week-04/Obafemi_Owode_5km_Analysis.png)
 
 ## Key Finding & Research Answer
 
