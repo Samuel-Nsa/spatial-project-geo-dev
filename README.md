@@ -34,6 +34,6 @@ Spatial evaluation of geographic access to formal market nodes across rural sett
 *Currently in progress.*
 
 ### Project Structure & Deliverables
-* 📁 **[Week 5: The terminal and VS Code](./week-05/)**
+* 📁 **[Week 5: The terminal and VS Code](./week-05/)** — Set up Python, VS Code and the terminal. hello.py runs.
 
 *Built as part of GeoDev Lab Africa (Cohort One).*
