@@ -28,4 +28,9 @@ Spatial evaluation of geographic access to formal market nodes across rural sett
 3. **Point-in-Polygon Extraction:** Ran *Count Points in Polygon* against the 1,066 settlement points to extract exact counts of accessible vs. unserved communities.
 
 ---
+
+## Month 2: development environment and early Python
+
+- Week 5: set up Python, VS Code and the terminal. hello.py runs.
+
 *Built as part of GeoDev Lab Africa (Cohort One).*
