@@ -29,8 +29,11 @@ Spatial evaluation of geographic access to formal market nodes across rural sett
 
 ---
 
-## Month 2: development environment and early Python
+## 💻 Phase 2: Development Environment & Early Python (Month 02)
 
-- Week 5: set up Python, VS Code and the terminal. hello.py runs.
+*Currently in progress.*
+
+### Project Structure & Deliverables
+* 📁 **[Week 5: The terminal and VS Code](./week-05/)**
 
 *Built as part of GeoDev Lab Africa (Cohort One).*
