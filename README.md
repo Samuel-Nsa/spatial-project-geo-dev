@@ -35,5 +35,6 @@ Spatial evaluation of geographic access to formal market nodes across rural sett
 
 ### Project Structure & Deliverables
 * 📁 **[Week 5: The terminal and VS Code](./week-05/)** — Set up Python, VS Code and the terminal. hello.py runs.
+* 📁 **[Week 6: Environments and project setup with uv](./week-06/)** -- Set up the project with uv and added pandas. check.py prints the pandas version.
 
 *Built as part of GeoDev Lab Africa (Cohort One).*
