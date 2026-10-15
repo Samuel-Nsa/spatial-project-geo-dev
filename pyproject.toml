@@ -12,9 +12,5 @@ dependencies = [
     "requests>=2.34.2",
 ]
 
-[project.scripts]
-spatial-project-geo-dev = "spatial_project_geo_dev:main"
-
-[build-system]
-requires = ["uv_build>=0.12.22,<0.13.0"]
-build-backend = "uv_build"
+[tool.uv]
+package = false
