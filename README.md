@@ -31,10 +31,10 @@ Spatial evaluation of geographic access to formal market nodes across rural sett
 
 ## 💻 Phase 2: Development Environment & Early Python (Month 02)
 
-*Currently in progress.*
-
 ### Project Structure & Deliverables
-* 📁 **[Week 5: The terminal and VS Code](./week-05/)** — Set up Python, VS Code and the terminal. hello.py runs.
-* 📁 **[Week 6: Environments and project setup with uv](./week-06/)** -- Set up the project with uv and added pandas. check.py prints the pandas version.
+- 📁 **[Week 5: The terminal and VS Code](./week-05/)** — Set up Python, VS Code and the terminal. hello.py runs.
+- 📁 **[Week 6: Environments and project setup with uv](./week-06/)** — Set up the project with uv and added pandas. check.py prints the pandas version.
 - 📁 **[Week 7: Python, the six ideas](./week-07/)** — analyse.py reads wards.csv, converts each area and classifies each ward.
+- 📁 **[Week 8: Inspecting data with Python](./week-08/)** — inspect_data.py summarises area_km2 and population in mydata.csv.
+
 *Built as part of GeoDev Lab Africa (Cohort One).*
