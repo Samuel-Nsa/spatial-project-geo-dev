@@ -1,7 +1,1067 @@
-ward,area_km2,population
-Agodi,12.4,15500
-Bodija,8.1,9200
-Sabo,5.7,6400
-Mokola,9.3,11800
-Basorun,6.2,7500
-Ojoo,11.0,14300
+wardname,set_name,area_km2,population
+Oba,Arowa Oke,45.000,569
+Molokiki,Mokoloki,4.000,903
+Kajola,Ogbagba Town,46.000,678
+Ajura,Ikanna Balogun,47.000,52
+Mowe,Ogurun Eletu,6.000,185
+Mowe,Asese,25.000,279
+Maloko Asipa,Ijaiye Okunade,41.000,74
+Kajola,Obele,25.000,355
+Alapako,Akinboguna,3.000,636
+Kajola,Keboh,1.000,583
+Obafemi,Sipe Village,24.000,428
+Kajola,Iporo Eleyele,32.000,577
+Obafemi,Akinbo Village,38.000,446
+Egbeda,Jauke,44.000,406
+Ibafo,Papa Olorunda,6.000,310
+Egbeda,Egbeda,20.000,495
+Obafemi,Ifote Otun,9.000,428
+Obafemi,Fodoko Village,50.000,879
+Maloko Asipa,Onipepeye,50.000,102
+Mowe,Iya Ijebu Junction,15.000,370
+Ibafo,Ereko Mogede,29.000,513
+Obafemi,Malaolu Baale,25.000,572
+Oba,Igbehin Oloyade,45.000,195
+Mowe,Igboilojaguna Itokuigbo Olo,38.000,216
+Ofada,Sodeko Village,43.000,131
+Ajebo,Oyebola Village,25.000,461
+Obafemi,Ategun,11.000,433
+Egbeda,Moko,7.000,374
+Kajola,Odo Ijesa,44.000,929
+Maloko Asipa,Soto Village,33.000,923
+Obafemi,Erunwon Oridota Village,44.000,647
+Obafemi,Lowa Oke,19.000,705
+Ibafo,Anjorin,12.000,669
+Ofada,Arigbawonwo,43.000,996
+Alapako,Elesin Village,43.000,660
+Onidundu,Otunba Alamo Village,35.000,141
+Ajebo,Idaba,35.000,519
+Kajola,Eji Ala,6.000,845
+Kajola,Igboilo Jaguna Itoku,3.000,974
+Maloko Asipa,Arowojelede,41.000,385
+Ofada,Asa Baala,6.000,961
+Ibafo,Magada Onigbagbol,30.000,192
+Maloko Asipa,Balogun Sokeye,27.000,839
+Kajola,Akiegun Village,8.000,899
+Maloko Asipa,Oba Kanlogun,33.000,546
+Maloko Asipa,Oluwo Kogbo Akinbola,1.000,950
+Kajola,Dendu,28.000,549
+Maloko Asipa,Oba Osiki,41.000,309
+Kajola,Abore,18.000,584
+Obafemi,Gbalesun,20.000,952
+Alapako,Ita Aladura,27.000,430
+Oba,Muroko Village,8.000,108
+Ajebo,Asegunje,34.000,205
+Alapako,Omi Village,12.000,600
+Maloko Asipa,Abule Ode,1.000,212
+Egbeda,Tomo,34.000,279
+Egbeda,Ido,43.000,958
+Obafemi,Sagutan,32.000,106
+Obafemi,Oke Igbala,1.000,534
+Onidundu,Orogbo Obafemi Owode,34.000,131
+Obafemi,Igbari Ake Village,1.000,245
+Onidundu,Eleyele Amosu,47.000,269
+Maloko Asipa,Abata,35.000,414
+Onidundu,Akinsan,43.000,480
+Kajola,Shonu,7.000,547
+Oba,Agbadu Village,50.000,137
+Kajola,Oko Nlado,5.000,709
+Alapako,Oke Odo Musa,9.000,254
+Agbowa,Lisokun,45.000,495
+Mowe,Lanlemo,20.000,779
+Maloko Asipa,Oluwo Lisemo,37.000,669
+Ajebo,Olugbo Odeyemi,45.000,794
+Egbeda,Oolo Oniyun,24.000,406
+Egbeda,Itori Alagbayun,48.000,203
+Ofada,Abule Titun,1.000,235
+Owode,Oko,5.000,760
+Obafemi,Malaolu,39.000,799
+Onidundu,Rofi,23.000,284
+Ajura,Siun,42.000,151
+Owode,Eguru Village,23.000,471
+Maloko Asipa,Migration Orile Itoku,37.000,69
+Egbeda,Dadiaro,33.000,641
+Obafemi,Abule Oke Kemta,31.000,163
+Ofada,Yotomi,11.000,347
+Maloko Asipa,Ijemo Olojede,36.000,726
+Egbeda,Ayerose,42.000,775
+Alapako,Alatan,15.000,167
+Kajola,Itoku Aro,10.000,847
+Ajura,Afojupanla,48.000,893
+Ofada,Jubilee Village,1.000,831
+Ajura,Abule Lemo,46.000,408
+Kajola,Mabon,23.000,578
+Oba,Agejo,10.000,928
+Kajola,Delakun,34.000,427
+Maloko Asipa,Abule Ege,3.000,116
+Ajura,Ikanna Paraga,22.000,869
+Egbeda,Ikereku Adeoso,41.000,260
+Alapako,Ladejo,11.000,523
+Egbeda,Owu Agbede,48.000,180
+Ajura,Ikanna Onijapa Village,15.000,57
+Owode,Alakoka,8.000,831
+Oba,Pashi,33.000,984
+Egbeda,Apena Magbon Community,17.000,828
+Egbeda,Apete 2,3.000,471
+Magboro,Orange Estate,21.000,147
+Maloko Asipa,Labiede,19.000,573
+Maloko Asipa,Kolo,26.000,757
+Owode,Owode,47.000,664
+Ofada,Ilupeju,8.000,494
+Onidundu,Odo Igbehin,50.000,410
+Maloko Asipa,Olowolagba,7.000,935
+Simawa,Areke Community,1.000,978
+Kajola,Aro Oba,40.000,395
+Molokiki,Ajelanwa Village,11.000,806
+Ajebo,Ajebo,46.000,288
+Egbeda,Ogboloko,8.000,880
+Obafemi,Kemta Luponna,7.000,727
+Kajola,Opeifa,45.000,838
+Kajola,Sowemimo Village,39.000,584
+Egbeda,Dega,27.000,318
+Onidundu,Erifun Oke,44.000,164
+Ajebo,Fidiwo,33.000,314
+Maloko Asipa,Ita Apidan,24.000,575
+Egbeda,Ejire,47.000,741
+Magboro,Gasline Magoro,29.000,108
+Obafemi,Adegesin,7.000,876
+Mowe,Olori Obafemi Owode,34.000,980
+Ajebo,Owojo,6.000,903
+Ajura,Ikanna Oluwo,40.000,341
+Ajebo,Amusan Tepon,6.000,143
+Egbeda,Aladan Village,30.000,335
+Onidundu,Abule Ijoko,34.000,486
+Egbeda,Ogbora,30.000,384
+Magboro,Royal Estate,50.000,878
+Oba,Oluwo Oke,43.000,797
+Owode,Owode Egba,18.000,277
+Ofada,Block M Fiiro Estate,19.000,286
+Onidundu,Eriki,15.000,445
+Ibafo,Magada Onimale,32.000,79
+Kajola,Ajana,17.000,568
+Egbeda,Ogungbade,36.000,192
+Oba,Ladoke Village,2.000,816
+Maloko Asipa,Tobaluwaji,26.000,956
+Owode,Yanbu,33.000,678
+Egbeda,Adedero,42.000,981
+Ojodu / Isheri,Warewa,3.000,95
+Kajola,Beri Bepo,28.000,547
+Maloko Asipa,Oko Noolu Village,2.000,637
+Obafemi,Balogun Yaya,13.000,353
+Mowe,Ogunsan,10.000,827
+Obafemi,Baaki Ake,10.000,269
+Mowe,Agarigan Ijeun,37.000,111
+Onidundu,Igboko,20.000,241
+Egbeda,Dendu Nlado,6.000,1000
+Egbeda,Asipa Mosinmi,12.000,86
+Molokiki,Eleworo Town Ofada Mowe,29.000,854
+Obafemi,Memo Villge,36.000,650
+Kajola,Gbende,39.000,560
+Oba,Dogo Kajola,9.000,381
+Egbeda,Alahun,1.000,377
+Molokiki,Ijepe Village,13.000,303
+Obafemi,Ilogbo Olofin,22.000,169
+Oba,Tonowo,5.000,200
+Egbeda,Likere,45.000,141
+Obafemi,Akamo Obafemi Owode,41.000,893
+Maloko Asipa,Sogeyinbo,25.000,973
+Mowe,Alapakan,8.000,121
+Agbowa,Afuyeke,7.000,202
+Kajola,Abule Ori,13.000,927
+Kajola,Rere,33.000,454
+Onidundu,Adebayo Village,36.000,524
+Onidundu,Kemta Kilaso,7.000,671
+Ofada,Omu Isoko,16.000,648
+Maloko Asipa,Afon Jaguna,50.000,591
+Egbeda,Olorunlekan Obafemi Owode,4.000,76
+Egbeda,Ondo,17.000,224
+Magboro,Mapara Makogi,10.000,193
+Mowe,Loburo,22.000,979
+Obafemi,Osoleku Village,43.000,549
+Kajola,Idosan Town,46.000,609
+Kajola,Olu Odo Village,6.000,126
+Egbeda,Isare,42.000,735
+Egbeda,Owu Dekudu,32.000,966
+Molokiki,Odofin Obafemi Owode,18.000,138
+Onidundu,Asagbe Village,44.000,397
+Ibafo,Oke Sefu Elelede,3.000,633
+Kajola,Languna,33.000,813
+Egbeda,Itori Oke Obafemi Owode,26.000,885
+Ajura,Eredo Ilase,15.000,877
+Ofada,Charity Estate Ofada,42.000,329
+Kajola,Owolabi,49.000,367
+Oba,Saare,48.000,333
+Ajura,Araromi Phase 1,2.000,779
+Mowe,Agarigan,24.000,995
+Oba,Booje,37.000,632
+Molokiki,Nodan Nla,20.000,894
+Owode,Gbarawe,46.000,821
+Kajola,Sotomi,50.000,991
+Mowe,Maba Community,39.000,151
+Onidundu,Nodan Kekere,16.000,296
+Ajebo,Araba Village,2.000,267
+Obafemi,Tejuoso,22.000,953
+Mowe,Omuonikoko,11.000,717
+Obafemi,Adegbo Village,32.000,484
+Ofada,Berger Paint Estate,22.000,687
+Oba,Aso Ode,2.000,962
+Oba,Igbesu,42.000,465
+Molokiki,Lapado Town,44.000,308
+Kajola,Aberu Agba,28.000,961
+Ajura,Jesutedo Olorunsogo,7.000,349
+Isote,Chiva,3.000,884
+Egbeda,Dekudu,43.000,475
+Obafemi,Odedola,49.000,507
+Ibafo,Mogede,35.000,395
+Ofada,Noah Pavilion Jubilee Estate Arigbawonwo,46.000,898
+Alapako,Seriki Sotayo,31.000,212
+Magboro,Breadth Field Avenue,5.000,944
+Kajola,Gbagura,23.000,907
+Egbeda,Esimu,20.000,726
+Ajura,Akinbo Ijeun,12.000,630
+Ofada,Okeleso Close Asukungbade Close,43.000,552
+Ajebo,Akingbadevillage,8.000,569
+Egbeda,Lakodi Aladan,25.000,569
+Maloko Asipa,Moloko Ashipa,19.000,417
+Magboro,Balogun,29.000,996
+Ajura,Ago Adura,37.000,385
+Mowe,Ogunrun Eletu,10.000,987
+Ajura,Ikanna Seriki,4.000,435
+Kajola,Baayan,1.000,688
+Ofada,Orunda Oke Oko,16.000,560
+Obafemi,Kemta Ogundare,31.000,726
+Obafemi,Erunwon,2.000,664
+Mowe,Obansanjo Close Orimerunmu,31.000,734
+Obafemi,Alahun 2,12.000,471
+Maloko Asipa,Owu Adelanwa,31.000,693
+Egbeda,Oko Laderin Community,38.000,920
+Obafemi,Agboro Obafemi Owode,31.000,431
+Kajola,Roro,44.000,407
+Oba,Degesin Village,2.000,291
+Magboro,Akeran,30.000,752
+Ofada,Daguja,14.000,613
+Maloko Asipa,Ijemo Nla,39.000,180
+Egbeda,Oko Village,4.000,333
+Ofada,Afojupanla,37.000,240
+Owode,Wempco Estate,48.000,959
+Alapako,Abujana,30.000,123
+Ofada,Omu Aleku,48.000,122
+Egbeda,Lisela,12.000,515
+Ajebo,Gbamgbade,23.000,179
+Onidundu,Jomu,34.000,156
+Ajura,Semore Village,30.000,206
+Obafemi,Igbo Ijeun,34.000,822
+Onidundu,Akogun Akinbode Village,4.000,461
+Mowe,Peace Estate,32.000,729
+Obafemi,Ikereku Olokuta,13.000,872
+Egbeda,Akete,19.000,979
+Ajura,Oniworo Obafemi Owode,28.000,759
+Mowe,Ayinla Mosafuneto Avenue,20.000,752
+Onidundu,Oyegunle,13.000,228
+Kajola,Aganrigan,40.000,871
+Maloko Asipa,Eere Aro,3.000,414
+Maloko Asipa,Oba Onikola,20.000,141
+Kajola,Bologun,1.000,625
+Molokiki,Ijiwo Ologboni,30.000,137
+Ibafo,Sanmona,15.000,690
+Odeda,Oloruntedo Odeda,42.000,658
+Egbeda,Olorulekan Obafemi Owode,22.000,740
+Ofada,Agbeku,41.000,603
+Mowe,Atobatele Close,24.000,397
+Onidundu,Bala Oke,31.000,767
+Egbeda,Lipede,1.000,267
+Oba,Sagi,25.000,845
+Kajola,Elele Fati,23.000,71
+Oba,Erunbe Lawani,36.000,783
+Kajola,Alahun,31.000,585
+Magboro,Forthright Estate,13.000,970
+Kajola,Oyero,49.000,521
+Mowe,Ogunrun Eletu Phase,16.000,997
+Alapako,Sotio Village,4.000,163
+Obafemi,Baaki Ijeun,50.000,363
+Maloko Asipa,Kemta Orisagbesan,48.000,61
+Alapako,Oke Egba,10.000,529
+Kajola,Tonde,32.000,191
+Obafemi,Owolabi Village,2.000,669
+Obafemi,Alawa Village,32.000,88
+Onidundu,Oso Sapon,7.000,300
+Ofada,Asa Elegun,42.000,446
+Egbeda,Mamu,20.000,583
+Ajura,Ajetutu,14.000,805
+Oba,Lukosi Kenta,38.000,854
+Obafemi,Sode Erunbe,14.000,494
+Mowe,Shonu Village,26.000,985
+Ibafo,Kosobameji,18.000,249
+Onidundu,Igbo Oya,20.000,732
+Ajura,Wasimi Ajegun,1.000,148
+Ofada,Mosadomi,21.000,423
+Oba,Orogbe Village,27.000,253
+Onidundu,Abule Ojo,3.000,700
+Obafemi,Sokanlu,32.000,175
+Magboro,Kajola,18.000,855
+Egbeda,Onigbegede,8.000,516
+Ibafo,Oke Iran Gideon,50.000,277
+Egbeda,Olorunsogo,11.000,96
+Oba,Abule Oko Obafemi Owode,7.000,274
+Ajura,Malajo,45.000,179
+Ajura,Seriki Orile Imo,44.000,345
+Onidundu,Balogun Bode Village,4.000,637
+Obafemi,Apena Ijeun Village,44.000,960
+Ibafo,Ibasha Araromi,44.000,678
+Alapako,Olorunda,8.000,142
+Ajura,Abule Alufa,13.000,942
+Egbeda,Ekiti,41.000,63
+Maloko Asipa,Imo Emulu,9.000,911
+Kajola,Agbogunleri Village,23.000,221
+Mowe,Ijere Wasimi,20.000,822
+Kajola,Agbangba Village 1,43.000,984
+Oba,Ojere,15.000,447
+Ajura,Ori Okuta Kajola,11.000,366
+Ajura,Orile Imo,18.000,508
+Kajola,Ago Opa,9.000,758
+Onidundu,Oluwo Soge Village,21.000,958
+Owode,Ogunseye,42.000,131
+Egbeda,Igbore Titun,45.000,394
+Kajola,Idiosan,49.000,352
+Egbeda,Sooino,20.000,161
+Mowe,Megbe,20.000,407
+Magboro,Ope Ifa,37.000,777
+Ofada,Gbarinmole,36.000,731
+Obafemi,Odedola Village,24.000,869
+Egbeda,Daleko,37.000,121
+Ajura,Olatunbo Village,26.000,160
+Kajola,Alapako,32.000,92
+Maloko Asipa,Osu Village,46.000,997
+Ofada,Omu Penpe,31.000,415
+Obafemi,Ikereke Village,10.000,93
+Magboro,Alamo Magboro,49.000,598
+Ibafo,Idi Mango,31.000,267
+Owode,Lisokun Village Owode Egba,29.000,584
+Egbeda,Apete 1,4.000,610
+Obafemi,Fadairo,22.000,555
+Molokiki,Lokoji,45.000,196
+Alapako,Sora Bale Village,44.000,819
+Egbeda,Laderin,1.000,993
+Ajura,Onibata,6.000,400
+Mowe,Dominion Community,3.000,176
+Kajola,Ojoru,44.000,738
+Kajola,Woro Elepo,45.000,992
+Alapako,Boodo,35.000,443
+Maloko Asipa,Sodolu Village,27.000,165
+Obafemi,Molare Village,6.000,809
+Ajura,Swunbare,1.000,666
+Kajola,Gbenoja,24.000,648
+Egbeda,Ototo,33.000,201
+Obafemi,Ijaun,33.000,609
+Ajura,Onibata Village,2.000,753
+Obafemi,Igbin Obafemi Owode,32.000,930
+Obafemi,Gbure,23.000,654
+Alapako,Oluwo Oyarinde,38.000,423
+Oba,Oluwo Isale,19.000,357
+Oba,Kemo Village,29.000,447
+Oba,Isota,25.000,320
+Owode,Potoki,36.000,885
+Onidundu,Oniwawa,10.000,141
+Ibafo,Oremeji Ibafo,45.000,71
+Kajola,Ishole Efon,24.000,737
+Onidundu,Laloko,47.000,118
+Ajebo,Mosan,37.000,969
+Ajura,Ilupeju,5.000,231
+Kajola,Kajola Community,11.000,242
+Maloko Asipa,Sangoda Village,25.000,331
+Oba,Ajegunle Oke,9.000,546
+Maloko Asipa,Baase,37.000,89
+Mowe,Ataala,2.000,622
+Oba,Lukanri,39.000,457
+Kajola,Imayan,1.000,845
+Oba,Ikekeku Taiwo,31.000,249
+Kajola,Nlado,46.000,405
+Ajebo,Itoko Apata,38.000,945
+Egbeda,Orile Oba,31.000,202
+Alapako,Ikende,7.000,854
+Magboro,Magboro Soflarin,38.000,601
+Ofada,Omu Ajibode,40.000,66
+Egbeda,Agodo,14.000,687
+Molokiki,Ropo,26.000,922
+Ajura,Lapoyo,42.000,477
+Ajebo,Erinle Ajebo,22.000,533
+Oba,Ajegunle Isale,27.000,260
+Ibafo,Angua,3.000,716
+Egbeda,Owu,14.000,418
+Egbeda,Komu,13.000,636
+Ajura,Bara,15.000,90
+Oba,Aasa,6.000,214
+Molokiki,Oko Oluwo Village,16.000,73
+Ajura,Olojo Kekere,27.000,418
+Kajola,Ake,38.000,54
+Kajola,Agbo Ile,8.000,583
+Ajura,Otunba,29.000,749
+Mowe,Popoola Aliyah Olufunke,4.000,151
+Mowe,Gbegira,1.000,628
+Ajura,Liyoku,47.000,154
+Maloko Asipa,Agbasege,36.000,645
+Egbeda,Oluwatedo Alako Community,12.000,86
+Kajola,Ijeun Gbonginran,26.000,666
+Alapako,Ogunmakin,2.000,419
+Oba,Gbogo,26.000,133
+Kajola,Oloya,38.000,580
+Ajebo,Olibori,24.000,985
+Egbeda,Sokenu,24.000,382
+Oba,Agbamaya Oja,49.000,261
+Onidundu,Bamuku,2.000,53
+Onidundu,Afojupa Kekere,24.000,650
+Ajura,Kajola Estate,16.000,269
+Magboro,Magboro,25.000,408
+Oba,Igbehin Soyombo,41.000,706
+Mowe,Imendu Nla,17.000,987
+Maloko Asipa,Baleye Village,19.000,50
+Kajola,Itori Oluwo,33.000,291
+Owode,Alafia Olatilewa,34.000,309
+Ofada,Kori Adebiopon,36.000,997
+Obafemi,Sodunrun Village,24.000,603
+Owode,Igangan,44.000,993
+Mowe,Kori Ija,38.000,217
+Egbeda,Itoku Isale Town,19.000,586
+Egbeda,Itoku Isale,14.000,464
+Egbeda,Maga Adeniregun,16.000,953
+Oba,Pakudi Town,43.000,316
+Alapako,Odo Ibadan,39.000,818
+Kajola,Ogbe,9.000,373
+Oba,Odofin Arowobusoye,37.000,384
+Obafemi,Oguseye Village,31.000,739
+Alapako,Iporo,22.000,483
+Kajola,Popo,41.000,894
+Magboro,Balegi,7.000,355
+Molokiki,Iro,4.000,906
+Egbeda,Agbedejobi,17.000,303
+Oba,Mosunmore,26.000,583
+Oba,Oba Eerin,49.000,515
+Owode,Orile Ogbehin,38.000,969
+Maloko Asipa,Kenta Somutu Village,41.000,976
+Oba,Odoeri,20.000,914
+Owode,Lisa Adefolu,21.000,55
+Mowe,Kara Kekere,47.000,722
+Ajebo,Atepepe,6.000,807
+Egbeda,Mologede,10.000,813
+Obafemi,Okanlomo Obafemi Owode,33.000,374
+Oba,Toloko,10.000,908
+Obafemi,Apaipai,39.000,686
+Oba,Afara,2.000,263
+Egbeda,Lanki,5.000,331
+Owode,Porogun,30.000,714
+Oba,Abore Ijeja,33.000,229
+Ajura,Odofin Oke,25.000,506
+Egbeda,Ade Ijeun Village,13.000,552
+Ibafo,Ajegunle Obafemi,24.000,316
+Ajura,Oguntayo Village,33.000,565
+Obafemi,Akero Sogbanmu,11.000,583
+Ofada,Ita Gbari Oke Afa,17.000,890
+Kajola,Oba Oluwo,7.000,664
+Ajura,Agbedi,46.000,942
+Egbeda,Olubo,2.000,547
+Obafemi,Oguniyi,27.000,527
+Obafemi,Amida Village,39.000,633
+Mowe,Abaren Kekere,11.000,416
+Onidundu,Akinlegun,39.000,52
+Obafemi,Fatoyinbo Village,1.000,861
+Magboro,Abule Oba,29.000,171
+Ofada,Omu,33.000,927
+Egbeda,Arowa Community,31.000,329
+Ajura,Ajura Town,7.000,330
+Alapako,Imo Lisa Village,43.000,769
+Owode,Omu Ajoyinre,37.000,255
+Kajola,Boruboru,7.000,483
+Onidundu,Onidundu Village,38.000,558
+Molokiki,Gidimo Village,39.000,250
+Owode,Igbede,37.000,551
+Kajola,Bankale,39.000,338
+Obafemi,Iloda,37.000,931
+Obafemi,Ijemo Sobujo,27.000,316
+Mowe,Kara,21.000,691
+Ibafo,Victory Estate,3.000,173
+Kajola,Mosafehjo,33.000,951
+Mowe,Toro Toro Village,2.000,372
+Egbeda,Eguda,45.000,754
+Ofada,Ifelodun Avenue,17.000,359
+Ajebo,Oluwo Ifote,29.000,619
+Kajola,Otunba Kemta,36.000,252
+Obafemi,Sapala Adebesin,37.000,845
+Kajola,Olorunsogo,9.000,512
+Egbeda,Ijeun Arobiologbo Community,39.000,281
+Egbeda,Bolukefu,4.000,279
+Ajura,Idiko,24.000,956
+Oba,Ijemo Araromu,17.000,415
+Egbeda,Kujore,1.000,956
+Obafemi,Lakehinde Village,34.000,335
+Egbeda,Agba,40.000,562
+Onidundu,Isoko Onidundu,21.000,350
+Ofada,Ofada,42.000,232
+Egbeda,Apagun Village,15.000,539
+Kajola,Agbangba Village 2,33.000,806
+Molokiki,Ijiwo Oluwo,3.000,241
+Ajura,Jibowu,27.000,229
+Ofada,Abisodu,21.000,387
+Kajola,Ligun,20.000,383
+Kajola,Alapandi Village,23.000,720
+Egbeda,Kobape,50.000,813
+Mowe,Ebute Osese,18.000,919
+Ajura,Jokuto,11.000,87
+Kajola,Ekija Village,27.000,974
+Obafemi,Abule Abata Sobulo,49.000,487
+Owode,Kori Ija,22.000,878
+Ofada,Oluwayemi Olasoji,44.000,337
+Oba,Oke Ogbun,31.000,132
+Egbeda,Oso Elele Village,30.000,896
+Owode,Ibokun Ologe,43.000,926
+Ibafo,Power Line Estate,30.000,858
+Owode,Kemta Oyewolu,38.000,997
+Obafemi,Oluwo Esan Owo,7.000,301
+Maloko Asipa,Aro Shodipe,40.000,823
+Owode,Oba Oloka,44.000,837
+Mowe,Pakuro,37.000,305
+Egbeda,Baroye,31.000,374
+Oba,Ajibode,37.000,261
+Kajola,Apesin,29.000,89
+Mowe,Olowotedo Obafemi Owode,9.000,340
+Oba,Orokuta,27.000,471
+Ibafo,Jabutu,21.000,270
+Ajura,Iborisagba,5.000,110
+Kajola,Igbo Olo,22.000,357
+Maloko Asipa,Akokan Village,11.000,550
+Mowe,Mosadomi 2,5.000,374
+Obafemi,Igbedu Village,23.000,588
+Alapako,Akindele,19.000,387
+Oba,Agboodo Gbodo,45.000,852
+Ofada,Daluwon Obalawa,9.000,834
+Ajura,Oloko Obafemi Owode,12.000,533
+Ajura,Ajura,18.000,411
+Onidundu,Sowunmi,10.000,939
+Owode,Melegun,21.000,834
+Mowe,Ijeun Amoniyan,2.000,979
+Owode,Ibokun Aro,36.000,326
+Oba,Oke Village,44.000,942
+Molokiki,Oluwafere Village,24.000,879
+Onidundu,Itoku,25.000,171
+Maloko Asipa,Ogbe Ita,15.000,537
+Magboro,Magboro 1,19.000,391
+Ofada,Elegbada,17.000,54
+Kajola,Oluwo Aroko Ewa,16.000,805
+Ofada,Folakan Village,37.000,524
+Kajola,Odo Ita Village,43.000,154
+Obafemi,Bakene,28.000,458
+Ofada,Association Estate,24.000,720
+Oba,Ihado Obafemi Owode,34.000,465
+Oba,Imo Senifiran,27.000,842
+Oba,Oposo Ijeja,11.000,344
+Kajola,Balisa,33.000,690
+Kajola,Lufowara Community,12.000,70
+Maloko Asipa,Moloko Asipa,25.000,50
+Obafemi,Agboro Village,24.000,325
+Mowe,Mafayofo,26.000,594
+Owode,Someke,1.000,58
+Owode,Akinbo,46.000,947
+Kajola,Balogun Ijemo,17.000,317
+Ajura,Ewu Lisa Obafemi Owode,43.000,415
+Maloko Asipa,Ibafo Kobape,19.000,972
+Oba,Jagunna Obafemi Owode,21.000,686
+Mowe,Olatilewa,2.000,567
+Obafemi,Apena Oderinde,18.000,626
+Owode,Ogidan Owode Egba,44.000,907
+Onidundu,Odofin Igbore Village,22.000,151
+Egbeda,Isa Egia Afoyanmu Village,8.000,353
+Alapako,Adewusi,33.000,486
+Onidundu,Eleyele Amos,44.000,928
+Molokiki,Asero,15.000,112
+Oba,Aboore,27.000,238
+Kajola,Orunmolu,45.000,926
+Alapako,Adeniyi,12.000,826
+Alapako,Oke Olodo Ogunmakin,38.000,673
+Mowe,Halleluyah House,16.000,619
+Oba,Imo Senifiran Village,43.000,201
+Kajola,Ojeke,41.000,959
+Egbeda,Samo Village,41.000,210
+Oba,Asero Oketepe,40.000,795
+Kajola,Apena,43.000,549
+Ofada,Fowawo,25.000,536
+Oba,Oba,38.000,734
+Molokiki,Lajila Idi Iroko,37.000,634
+Kajola,Ghure,35.000,192
+Oba,Itori Odo,5.000,849
+Onidundu,Abule Soji,9.000,182
+Oba,Ajade Ogundipe,24.000,205
+Ibafo,Akoka Ebute Ojora Ibafo,33.000,63
+Ibafo,Mosafote,17.000,650
+Egbeda,Mechanic Village,32.000,61
+Obafemi,Osiun Village,22.000,157
+Obafemi,Akoko Kinosi,27.000,262
+Ajura,Magbodun,25.000,294
+Maloko Asipa,Apesin Mogbafofo,42.000,774
+Egbeda,Agbese,4.000,638
+Molokiki,Igboimo Araromi,46.000,214
+Ajebo,Ojo Fidiwo,34.000,664
+Maloko Asipa,Agberu Ogunba,46.000,662
+Egbeda,Olukan,41.000,197
+Oba,Agboke,21.000,122
+Mowe,Adesan,14.000,662
+Mowe,Ogunrun,47.000,864
+Mowe,Apesin Itoku,20.000,407
+Ofada,Blue Stone Garden Estate,33.000,705
+Oba,Oke Egan,42.000,66
+Ajebo,Eleruja,29.000,116
+Onidundu,Ijiwo Olota,45.000,51
+Kajola,Oko Legun,40.000,416
+Owode,Ikta Akanna,10.000,850
+Egbeda,Masha Soyoye,1.000,514
+Alapako,Alapako Aro,8.000,782
+Ajebo,Oke Oja Ajebo,21.000,815
+Oba,Ofe Adebari,8.000,282
+Alapako,Bankole Village,1.000,820
+Obafemi,Abule Igbin,50.000,290
+Mowe,Abaren,48.000,766
+Egbeda,Talabi,32.000,94
+Onidundu,Orile Akinjobi,21.000,659
+Oba,Oladehinde Village,37.000,140
+Maloko Asipa,Magbodun Village,40.000,683
+Obafemi,Shangode Village,23.000,88
+Ibafo,Efu Elelede,16.000,248
+Magboro,Magboro 2,34.000,580
+Alapako,Ijana Alapako Oni,11.000,463
+Ofada,Sim Estate,46.000,484
+Mowe,Redemption Camp,20.000,862
+Ajura,Odo Ore,41.000,309
+Kajola,Otunba,31.000,71
+Ibafo,Showo Town,24.000,346
+Ajura,Oke Arobi,40.000,806
+Egbeda,Ojubona Obafemi Owode,48.000,183
+Egbeda,Oguro,27.000,614
+Ofada,Ayetoro Obafemi Owode,12.000,472
+Oba,Isolaake Village,4.000,455
+Onidundu,Mushin Ore,1.000,995
+Alapako,Ayiegunle Village,6.000,810
+Mowe,Ijere Agelete,32.000,654
+Owode,Igbein,14.000,737
+Maloko Asipa,Odedeyi,39.000,532
+Egbeda,Nlemo,29.000,466
+Obafemi,Itoko Lapini,31.000,307
+Ofada,Abisodun Ofada,13.000,499
+Ajebo,Orita Aje Ajebo,11.000,556
+Ofada,Oke Ipa,12.000,732
+Molokiki,Ajade,36.000,630
+Onidundu,Oruntu,49.000,475
+Oba,Marako Iya,3.000,108
+Egbeda,Asamo,20.000,269
+Egbeda,Elefun Community,38.000,811
+Obafemi,Oluwo Kuruko,10.000,109
+Obafemi,Baase Iporo Village,49.000,418
+Ajura,Liitan,3.000,262
+Oba,Lajolu Village,33.000,960
+Oba,Alagada,16.000,890
+Ajebo,Oke Fidiwo,3.000,998
+Ajura,Owodunni,18.000,983
+Kajola,Ikereku Sipe,25.000,485
+Egbeda,Ijemo,40.000,929
+Ajura,Awo,32.000,541
+Alapako,Aloge Village,12.000,984
+Owode,Maja,18.000,251
+Egbeda,Satolu,3.000,648
+Maloko Asipa,Binu,22.000,65
+Oba,Itori Omilende,30.000,590
+Maloko Asipa,Adejola,21.000,350
+Oba,Efunro,10.000,180
+Maloko Asipa,Akogun,43.000,873
+Ibafo,Opeyemi,6.000,146
+Egbeda,Kuluku,47.000,786
+Alapako,Balagada,1.000,254
+Alapako,Degbe Ajebo,23.000,59
+Obafemi,Sobiye,36.000,335
+Maloko Asipa,Erukute,17.000,461
+Ajura,Oba Akinsola,43.000,506
+Molokiki,Ajegunle,21.000,678
+Molokiki,Olosan Obafemi Owode,14.000,218
+Egbeda,Gbagura Akinwande,6.000,118
+Maloko Asipa,Oba Aro,46.000,813
+Obafemi,Sagalu Village,13.000,872
+Kajola,Apesin Itoku,18.000,70
+Oba,Ologbe,21.000,278
+Oba,Lugboya,7.000,997
+Mowe,Atako,38.000,655
+Alapako,Sanya Village,35.000,780
+Ajura,Ikanna Olopa,18.000,541
+Obafemi,Balogun Village,32.000,486
+Magboro,Olowofela,20.000,529
+Alapako,Bamgboye,38.000,860
+Kajola,Foke,27.000,659
+Egbeda,Ijemo Obafemi Owode,35.000,447
+Egbeda,Soroungbe,3.000,158
+Egbeda,Oke Abata,43.000,285
+Owode,Okanlo Ala,16.000,92
+Onidundu,Arule Sule,8.000,681
+Ofada,Ajerogun Obafemi Owode,7.000,970
+Mowe,Lotto,16.000,763
+Kajola,Oropa Akindele,22.000,770
+Obafemi,Adegbokan Village,32.000,768
+Kajola,Demala,31.000,433
+Ajura,Ijaye Kurumi,4.000,770
+Molokiki,Erinla,50.000,402
+Obafemi,Ojeke Village,18.000,639
+Ajura,Bajira,8.000,630
+Ofada,Asa Agewe,11.000,145
+Obafemi,Fadipe,3.000,279
+Ofada,Orunkole,29.000,965
+Owode,Omu Onikoko,9.000,701
+Kajola,Onigari,45.000,436
+Ajebo,Abatan Ajebo,17.000,798
+Owode,Geleodun,25.000,204
+Mowe,Orimenumu,17.000,118
+Kajola,Erunwon Kuti,12.000,835
+Maloko Asipa,Agoro Sangoda Village,18.000,129
+Egbeda,Owu Sogade Village,43.000,653
+Egbeda,Itoku Oke Lifowope,43.000,309
+Ajebo,Orisunmbare,30.000,516
+Onidundu,Abule Derelu,41.000,947
+Owode,Fere,27.000,468
+Egbeda,Apagun Soji,1.000,966
+Kajola,Odo Inu Village,22.000,171
+Owode,Tedun,19.000,438
+Kajola,Jaguno,9.000,321
+Magboro,Island Estate,21.000,765
+Kajola,Akin Itoko Village,33.000,289
+Ajebo,Ifote Soyinka,5.000,989
+Mowe,Imedu Oke Ipa,34.000,65
+Maloko Asipa,Solomo,6.000,744
+Obafemi,Saromu Village,47.000,574
+Oba,Lasode Village,5.000,577
+Alapako,Alapako Oni,36.000,481
+Alapako,Alapako,6.000,636
+Onidundu,Ikereku Onipepeye,30.000,171
+Ajura,Itoku Ande,8.000,910
+Egbeda,Oniboku Dedeke Village,47.000,779
+Owode,Araromi Oke Aro,18.000,298
+Ajura,Ponlade,20.000,883
+Kajola,Abule Okuromade,46.000,727
+Obafemi,Asade Village,17.000,537
+Kajola,Apesin Ijemo,41.000,585
+Kajola,Oduroye Village,41.000,767
+Owode,Otere Oba,19.000,279
+Ajebo,Olosun Village,6.000,401
+Kajola,Onigbogbo,42.000,366
+Alapako,Yakoyo Village,46.000,275
+Maloko Asipa,Ifote Village,6.000,827
+Ofada,Mosadomi 1,23.000,435
+Ajebo,Itoko Egungbori,21.000,790
+Obafemi,Twenty Village,50.000,604
+Maloko Asipa,Ita Osu,21.000,799
+Maloko Asipa,Oko Sangoda,46.000,487
+Ibafo,Progressive Estate,49.000,625
+Molokiki,Elepa,43.000,958
+Kajola,Digboluja,42.000,597
+Egbeda,Okoro Village 2,49.000,269
+Oba,Ijeun Lujogbo,6.000,350
+Maloko Asipa,Ibaree,35.000,540
+Ibafo,Baptist Estate,37.000,824
+Obafemi,Okukenu,29.000,925
+Egbeda,Onipetan,49.000,87
+Obafemi,Are Obafemi Owode,30.000,913
+Magboro,Magbaro,32.000,208
+Maloko Asipa,Ogunla,3.000,623
+Onidundu,Agbese,33.000,147
+Maloko Asipa,Asu Village,4.000,434
+Oba,Abata Village,6.000,829
+Onidundu,Olubusi Apena Village,32.000,543
+Owode,Lanlemo,42.000,795
+Kajola,Ilese,23.000,979
+Egbeda,Owu Sodun Village,1.000,702
+Egbeda,Abule Ake,49.000,185
+Kajola,Itoku Olodo,28.000,363
+Mowe,Ijere Onigbedu,33.000,686
+Maloko Asipa,Oforan,18.000,268
+Onidundu,Odofin Oyegunle,9.000,832
+Egbeda,Adu Village,10.000,796
+Obafemi,Amusan,32.000,875
+Mowe,Iboku Eruku,50.000,988
+Ibafo,Olowotedo,18.000,598
+Obafemi,Lowa Isale Village,7.000,747
+Owode,Atun,45.000,164
+Obafemi,Ijemo Odo,44.000,681
+Obafemi,Tige,11.000,888
+Obafemi,Efunjo,4.000,991
+Maloko Asipa,Ajasun,34.000,243
+Onidundu,Omu Alagbede,14.000,214
+Obafemi,Olobi Village,29.000,379
+Maloko Asipa,Aakun Village,27.000,605
+Ibafo,Ibafo,6.000,315
+Obafemi,Amida,24.000,175
+Maloko Asipa,Idi Tank Village,1.000,898
+Oba,Igbehin,37.000,841
+Maloko Asipa,Seriki Okusan,5.000,104
+Oba,Marako Inu,39.000,732
+Ofada,Agbajowo Community,40.000,213
+Ajebo,Lisa Erunbe,28.000,384
+Kajola,Kajola,34.000,779
+Obafemi,Iddo,9.000,228
+Mowe,Ijere Pakuro,39.000,441
+Obafemi,Mosa Village,30.000,188
+Ofada,Adewoiu,33.000,763
+Egbeda,Kemta,4.000,723
+Kajola,Sapano,11.000,254
+Oba,Adedotun Village,49.000,575
+Egbeda,Agberu,24.000,430
+Egbeda,Debore,13.000,810
+Ajebo,Lantoro Ajebo,6.000,171
+Obafemi,Alufa Ake Village,12.000,595
+Egbeda,Lumoko,31.000,931
+Kajola,Woro Kasoun,17.000,656
+Obafemi,Apena Erunbe,47.000,328
+Ibafo,Halleluyah Quarters,13.000,127
+Obafemi,Latunde,24.000,702
+Onidundu,Ogbe Odujoko,49.000,296
+Maloko Asipa,Wasimi,37.000,644
+Alapako,Onigbodogi Village,40.000,261
+Egbeda,Sonwo,9.000,357
+Egbeda,Apode,11.000,883
+Maloko Asipa,Sobande,7.000,597
+Maloko Asipa,Ibafo Owode,34.000,991
+Owode,Olori Itori,5.000,362
+Maloko Asipa,Ososun,3.000,857
+Egbeda,Oya Mejiogbe,21.000,220
+Kajola,Baleye Village,45.000,446
+Ajebo,Asingunje Village,48.000,280
+Mowe,Ogunrin Ori,18.000,743
+Ajebo,Asogboni,32.000,369
+Kajola,Ogunda,3.000,658
+Ajebo,Erunwon Fodoko,27.000,108
+Ofada,Ajegunle Abaren,32.000,416
+Kajola,Oluwo Ijeun,44.000,985
+Onidundu,Ijemo Yaro,26.000,990
+Kajola,Itori Ojoru,17.000,240
+Obafemi,Oka Village,43.000,610
+Obafemi,Oluwo Sunmola,15.000,947
+Oba,Megi,19.000,929
+Ajebo,Abule Oliwo,8.000,785
+Obafemi,Kannike,23.000,657
+Kajola,Senju,40.000,805
+Onidundu,Awoke,1.000,898
+Ajura,Solo Oke Igbala,16.000,387
+Kajola,Agba Ijemo,4.000,406
+Owode,Ashanle,4.000,927
+Egbeda,Ade Odo Ayeroso,11.000,842
+Egbeda,Odofin,21.000,669
+Oba,Ijeun Adedayo,40.000,945
+Egbeda,Alako Ijeun Community,43.000,384
+Ibafo,Gideon Village,6.000,316
+Onidundu,Ogunbona Village,22.000,79
+Owode,Adejorin,17.000,666
+Kajola,Isan Ijalo,7.000,352
+Ajebo,Ifote Apena,4.000,523
+Onidundu,Afojupa Nla,33.000,268
+Egbeda,Alako Nla,23.000,312
+Ibafo,Oke Cele Ereko,1.000,548
+Obafemi,Ogbengbe,32.000,780
+Mowe,Olainukan Estate Pakuro Okeipa,6.000,578
+Obafemi,Seriki Ilogbo,19.000,686
+Onidundu,Odofin Ijeja,1.000,410
+Maloko Asipa,Oba Asunmo,38.000,970
+Egbeda,Tolu,34.000,132
+Egbeda,Ategun Town,45.000,199
+Owode,Chiva,49.000,185
+Ajebo,Ijemo Sotan,21.000,489
+Obafemi,Alahun Sikiru,18.000,449
+Ofada,Fowowawo,32.000,859
+Mowe,Papalantoro,29.000,578
+Egbeda,Bashorun Shomoye Community,21.000,215
+Maloko Asipa,Ilogbo Abore,10.000,228
+Egbeda,Olopa Forilaru,23.000,146
+Ibafo,Imoasasa,39.000,135
+Egbeda,Gbede,34.000,125
+Mowe,Ijere Elelede,25.000,461
+Owode,Jaguna,32.000,621
+Mowe,Samland,27.000,883
+Egbeda,Anada,10.000,384
+Kajola,Bayeni Aganrigan,8.000,369
+Mowe,Alafia Tayo,4.000,687
+Ajura,Ijaye Kunrunm,5.000,865
+Oba,Milke 8,15.000,791
+Molokiki,Akomologbon,26.000,849
+Molokiki,Eleworo,37.000,855
+Kajola,Agoro,17.000,855
+Kajola,Oko Ebinpejo,30.000,954
+Egbeda,Igbore,5.000,253
+Egbeda,Igbein Isopa,33.000,747
+Kajola,Isola Efon,50.000,884
+Oba,Agbojulogun,33.000,806
+Kajola,Okuromade Village,46.000,150
+Oba,Ogbomekun Oluwo,24.000,891
+Kajola,Odo Atitebi,12.000,497
+Oba,Iporo Village,49.000,420
+Egbeda,Okoro Village 1,1.000,415
+Oba,Igbo Olodo,47.000,483
+Kajola,Ota Village,19.000,321
+Owode,Otere Peki,30.000,135
+Egbeda,Libegun,16.000,220
+Ibafo,Asese Oko Maba,14.000,276
+Maloko Asipa,Isodo Village,14.000,258
+Mowe,Imedi Alasa,50.000,395
+Mowe,Arowolo,34.000,684
+Oba,Olubiyi,24.000,272
+Obafemi,Apena,34.000,576
+Ibafo,Oloke,48.000,334
+Oba,Oposo Igbore,11.000,868
+Obafemi,Ajala Town,26.000,563
+Kajola,Onala Village,16.000,829
+Kajola,Ajana Rere,33.000,99
+Oba,Adekanmbi Village,16.000,798
+Kajola,Isan Apena,30.000,435
+Odeda,Dagunja,14.000,736
+Kajola,Aro Oba Atowowo,34.000,818
+Obafemi,Obafemi Town,24.000,957
+Ibafo,Ebute Mogede,45.000,594
+Ibafo,Oke Bankale Community Ibafo,42.000,794
+Obafemi,Ayedun Village,37.000,549
+Alapako,Debore Osaye,26.000,138
+Oba,Ayiwere Kanwo,19.000,180
+Kajola,Ishan Onigbagbo,17.000,200
+Egbeda,Agbon Community,31.000,528
+Molokiki,Agbamo,46.000,489
+Egbeda,Lupele,23.000,944
+Onidundu,Ateko Village,27.000,641
+Egbeda,Ifote Oluwo,35.000,511
+Egbeda,Ilogbo,26.000,235
+Oba,Erunbe Village,3.000,180
+Owode,Otere Apena,32.000,553
+Ofada,Magbon,22.000,983
+Owode,Imo Asasa,22.000,110
+Oba,Abule Ige,10.000,63
+Ofada,Assembly House,26.000,859
+Mowe,Erunbe,2.000,825
+Molokiki,Apena Ntelu,46.000,394
+Kajola,Itoku Ogbe,20.000,95
+Owode,Lokulo Tiya Egbe Village,45.000,612
+Egbeda,Egun Itoku,19.000,789
+Egbeda,Koriko,48.000,303
+Obafemi,Yangu Village,22.000,401
+Maloko Asipa,Asu,37.000,393
+Kajola,Igvo Ilolo,16.000,815
+Owode,Jagunna,45.000,389
+Onidundu,Eleyele Ijeja Village,34.000,868
+Kajola,Sodunke,27.000,558
+Oba,Ijeun Kukuta,35.000,954
+Ofada,Omu Arogun,46.000,678
+Ajura,Ikanna Balogun Village,43.000,426
+Oba,Iporo Odunlami,21.000,59
+Egbeda,Basala,32.000,885
+Kajola,Oba Village,5.000,89
+Onidundu,Salemo Ori Okuta,27.000,70
+Magboro,Arepo,9.000,576
+Mowe,Iboto Village,30.000,925
+Onidundu,Ajana Odo,23.000,324
+Kajola,Iraye,45.000,346
+Egbeda,Erunbe Solaja,20.000,956
+Maloko Asipa,Seriki Ogunsan,5.000,582
+Egbeda,Egun,38.000,105
+Obafemi,Alayin Village,47.000,932
+Owode,Olatilewa,12.000,656
+Egbeda,Egirigi,27.000,398
+Obafemi,Are Ago,25.000,781
+Mowe,Orun Nkole,25.000,918
+Obafemi,Otunbade,17.000,384
+Molokiki,Idi Osan Obafemi Owode,20.000,799
+Ofada,Age,48.000,850
+Ajura,Oke Igbala Obafemi Owode,42.000,244
+Maloko Asipa,Rere Jiboso,44.000,351
+Egbeda,Ateroko Obafemi Owode,31.000,95
+Oba,Ikija Village,22.000,826
+Mowe,Imendu Gbage,11.000,412
+Egbeda,Lolifowope Town,5.000,751
+Maloko Asipa,Offoron,37.000,947
+Kajola,Ijeun Amoniyan,47.000,864
+Obafemi,Ajala Village,3.000,968
+Egbeda,Adebari,10.000,127
+Ibafo,Ago Igbala,26.000,143
+Maloko Asipa,Akia,6.000,111
+Egbeda,Seriki Ijemo,17.000,957
+Ofada,Kc Avenue Adesan,40.000,308
+Oba,Ikanna Agunesi,21.000,770
+Mowe,Olorombo,12.000,626
+Obafemi,Abondo,20.000,304
+Ofada,Peace Estate Omu Ajibode,26.000,555
+Ibafo,Magada Onimole,2.000,617
+Oba,Eerin Oba Ojuore Oba,15.000,66
+Ofada,Itemo,8.000,66
+Kajola,Mogbafofo,25.000,452
+Oba,Olorunshogo,43.000,569
+Kajola,Kuti Village,42.000,591
+Alapako,Somi Village Ogunmakin,33.000,747
+Molokiki,Idiroko,5.000,755
+Kajola,Idepin,27.000,130
+Egbeda,Olaotan Village,5.000,425
+Ajebo,Layanran Village,20.000,141
+Owode,Olowokojebi Community,9.000,688
+Onidundu,Orugbo Village,14.000,512
+Maloko Asipa,Afojupakekere,22.000,127
+Ajura,Araromi,43.000,587
+Molokiki,Aralu Village,15.000,566
+Kajola,Erunwon Alagbayun,38.000,352
+Oba,Jamo,15.000,966
+Magboro,Peace Estate Magboro,49.000,941
+Molokiki,Lukosi,25.000,898
+Ibafo,Mission Avenueoyebi Ibafo,1.000,378
+Ajura,Kelebe,18.000,151
+Egbeda,Kemta Sokan Village,15.000,712
+Oba,Imo Yaro,17.000,462
+Owode,Oloja Oke,17.000,833
+Ibafo,Ajegunle,12.000,140
+Mowe,Lotto Mowe,3.000,893
+Magboro,Mfm Prayer City,41.000,878
+Mowe,Isaac Adiatu Street Estate,22.000,438
+Oba,Igbomekun Akindasa,44.000,542
+Egbeda,Ikereku Village,28.000,786
+Egbeda,Masha,3.000,920
+Alapako,Orile Ogunmakin,46.000,749
+Molokiki,Ilugun,21.000,594
+Ajura,Lologe,36.000,78
+Kajola,Ikereku Village,35.000,841
+Mowe,Orimerunmu,38.000,895
+Molokiki,Gbari Apena,16.000,414
+Ajebo,Oduro Obafemi Owode,41.000,474
+Egbeda,Oke Ipa,45.000,469
+Kajola,Ajibayo Obele,24.000,229
+Onidundu,Abule George,26.000,812
+Oba,Kajola,28.000,491
+Kajola,Oko Odeyemi,11.000,470
+Kajola,Ewuru,10.000,577
+Molokiki,Oju Sango,50.000,169
+Oba,Kemo,48.000,71
+Obafemi,Sapala Makinde Village,8.000,402
+Egbeda,Oluwo Village,35.000,125
+Egbeda,Onipakala,24.000,724
+Egbeda,Kemta Abata,47.000,439
+Ajura,Sode Village,12.000,183
+Obafemi,Orisaye Village,3.000,700
+Kajola,Saibu,49.000,136
+Kajola,Lodo Village,7.000,479
+Maloko Asipa,Oba Seriki,50.000,793
+Obafemi,Oloparun Village,27.000,64
+Egbeda,Efuye,23.000,225
+Oba,Eriti,48.000,901
+Oba,Lufoko Oyemo,23.000,871
+Agbowa,Ogunji,22.000,129
+Obafemi,Apena Ijeun,38.000,742
+Kajola,Apena Obafemi Owode,28.000,142
+Obafemi,Onile Oke Village,42.000,78
+Ajura,Logbara,50.000,527
+Oba,Sogbamu,33.000,911
+Ibafo,Unity Estatepapa Ibafo,49.000,660
+Kajola,Erunwon Adesina,21.000,120
+Kajola,Sokelu,8.000,832
+Alapako,Lemomu,5.000,368
+Maloko Asipa,Adunbu,13.000,607
+Molokiki,Agbawon,50.000,850
+Ajura,Ijemo Kukoyi,19.000,182
+Egbeda,Ogunjobi Village,43.000,105
+Molokiki,Imo Lamosun,14.000,233
+Alapako,Sobu,9.000,210
+Obafemi,Kurogbo Village,31.000,50
+Mowe,Ijere Akegun,8.000,371
+Ajura,Osoba Obafemi Owode,5.000,173
+Ajebo,Yesolu Erunbe,17.000,598
+Owode,Sofolu,9.000,283
