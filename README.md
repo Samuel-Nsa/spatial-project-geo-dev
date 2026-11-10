@@ -38,4 +38,7 @@ Spatial evaluation of geographic access to formal market nodes across rural sett
 - **[Week 8: inspect_data.py](./inspect_data.py)** — Summarises `area_km2` and `population` in `mydata.csv`.
 - **[Week 9: summary.py](./summary.py)** — Summarises multiple number columns (`area_km2` and `population`) in `mydata.csv` using refactored modular functions.
 
-"Built as part of GeoDev Lab Africa (Cohort One)."
+##  Phase 3: Geospatial Python and Automation
+* **[Week 10: GeoPandas & Spatial Joins](./month-03/week-10/)** — Loaded, checked, joined and mapped custom `obafemi_owode_settlement` layer in code.
+
+"Built as part of GeoDev Lab Africa (Cohort One)
