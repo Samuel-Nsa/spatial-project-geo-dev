@@ -40,5 +40,6 @@ Spatial evaluation of geographic access to formal market nodes across rural sett
 
 ##  Phase 3: Geospatial Python and Automation
 * **[Week 10: GeoPandas & Spatial Joins](./month-03/week-10/)** — Loaded, checked, joined and mapped custom `obafemi_owode_settlement` layer in code.
+- **[Week 11: CRS & Spatial Operations](./month-03/week-11/)** — Reprojected to EPSG: 32631 and measured settlement areas and market accessibility.
 
 "Built as part of GeoDev Lab Africa (Cohort One)
