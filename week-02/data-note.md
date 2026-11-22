@@ -27,3 +27,26 @@
 * **Feature Count:** 1 feature (Obafemi Owode LGA)
 * **Key Columns:** `ADM2_EN` (LGA Name), `ADM1_EN` (State Name)
 * **Gaps/Missing Values:** Boundary lines are complete and clean, with no missing geometry for this specific local government area.
+
+---
+
+# Week 12 Data Note: Elevation & Multispectral Imagery
+
+**5. Landsat 8-9 Collection 2 Level-2 Surface Reflectance (NDVI / Spectral Bands)**
+- **Source:** USGS EarthExplorer — Landsat 8-9 OLI/TIRS C2 L2 (https://earthexplorer.usgs.gov/)
+- **Scene ID:** `LC09_L2SP_191055_20260128_20260129_02_T1` (Path 191, Row 055)
+- **Acquisition Date & Cloud Cover:** 2026-01-28 (Dry season; < 10% land cloud cover)
+- **Geometry Type:** Raster (GeoTIFF, 30m spatial resolution)
+- **Downloaded Files (kept off GitHub via `.gitignore` in `data/raw/landsat/`):**
+  - `LC09_L2SP_191055_20260128_20260129_02_T1_SR_B4.TIF` (Band 4 — Red)
+  - `LC09_L2SP_191055_20260128_20260129_02_T1_SR_B5.TIF` (Band 5 — Near-Infrared / NIR)
+- **Notes/Limitations:** Level-2 surface reflectance values require the Collection 2 scale factor (`0.0000275 * DN - 0.2`) before computing vegetation indices such as NDVI.
+
+**6. Digital Elevation Model (DEM)**
+- **Source:** USGS EarthExplorer — SRTM 1 Arc-Second Global (https://earthexplorer.usgs.gov/)
+- **Tile Entity IDs & Local Files (kept off GitHub via `.gitignore` in `data/raw/`):**
+  - Primary Tile: `SRTM1N06E003V3` (`n06_e003_1arc_v3.tif` — Coordinates: 6°N, 3°E; covers primary Obafemi-Owode LGA study area)
+  - Secondary Tile: `SRTM1N07E003V3` (`n07_e003_1arc_v3.tif` — Coordinates: 7°N, 3°E; northern boundary coverage)
+- **Publication / Mission Date:** Published 2014-09-23 (SRTM mission captured February 2000)
+- **Geometry Type & CRS:** Raster (GeoTIFF, 1 arc-second / ~30m resolution, `EPSG:4326`)
+- **Notes/Limitations:** Native cells are measured in geographic degrees (`~0.00028°`); suitable for point sampling and zonal statistics after aligning vector CRS, though reprojection to a metric CRS (`EPSG:32631`) is required before calculating distance-dependent terrain metrics like slope.
